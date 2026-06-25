@@ -1,4 +1,4 @@
-# 🌦️ Task 4 – CLI Weather App
+# 🌦️ CLI Weather App
 
 > **A Python Command-Line Weather Application powered by the OpenWeatherMap API**
 
@@ -77,8 +77,8 @@ Task-4-CLI-Weather-App/
 ## 1️⃣ Clone the Repository
 
 ```bash
-git clone <repository-url>
-cd Task-4-CLI-Weather-App
+git clone https://github.com/gayatori-san/unprof_pyai_4
+cd CLI-Weather-App
 ```
 
 ---
