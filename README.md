@@ -77,7 +77,7 @@ Task-4-CLI-Weather-App/
 ## 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/gayatori-san/unprof_pyai_4
+git clone https://github.com/gayatori-san/unprof_pyai_4.git
 cd CLI-Weather-App
 ```
 
